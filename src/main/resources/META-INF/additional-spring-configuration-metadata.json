@@ -1,0 +1,32 @@
+{"properties": [
+  {
+    "name": "app.config.aws.access-key-id",
+    "type": "java.lang.String",
+    "description": "A description for 'app.config.aws.access-key-id'"
+  },
+  {
+    "name": "app.config.aws.secret-key-id",
+    "type": "java.lang.String",
+    "description": "A description for 'app.config.aws.secret-key-id'"
+  },
+  {
+    "name": "app.config.message.queue.topic",
+    "type": "java.lang.String",
+    "description": "A description for 'app.config.message.queue.topic'"
+  },
+  {
+    "name": "app.config.aws.region",
+    "type": "java.lang.String",
+    "description": "A description for 'app.config.aws.region'"
+  },
+  {
+    "name": "app.config.aws.region",
+    "type": "java.lang.String",
+    "description": "A description for 'app.config.aws.region'"
+  },
+  {
+    "name": "app.config.aws.region",
+    "type": "java.lang.String",
+    "description": "A description for 'app.config.aws.region'"
+  }
+]}
